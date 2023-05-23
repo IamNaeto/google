@@ -1,7 +1,7 @@
 # Google Search Page Clone
 - A replicated version of google search page. Yet responsive across devices of different screens but will be reponsive soon!
     
-    - Live Link :: [Go Live](https://iamnaeto.github.io/number-generator/)
+    - Live Link :: [Go Live](https://iamnaeto.github.io/google/)
     
 ## Author: Charles Obimnaeto Egesionu ##
 
