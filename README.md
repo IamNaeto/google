@@ -1,5 +1,5 @@
 # Google Search Page Clone
-- A replicated version of google search page. Yet responsive across devices of different screens but will be reponsive soon!
+- A replicated version of google search page. Fully responsive across devices of different screens!
     
     - Live Link :: [Go Live](https://iamnaeto.github.io/google/)
     
