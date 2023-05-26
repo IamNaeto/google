@@ -231,7 +231,7 @@ a{
 
 input{
     width: 300px;
-    padding: 8px 60px 8px 40px;
+    padding: 8px 33px 8px 23px;
     margin: 8px 0;
 }
 .google-links{
@@ -241,10 +241,10 @@ input{
     width: 15px;
 }
 .link-left{
-    bottom: 35px;
+    bottom: 37px;
 }
 .link-right{
-    bottom: 35px;
+    bottom: 34px;
 }
 .imgs .fa{
     font-size: 10px;
